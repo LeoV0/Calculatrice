@@ -92,6 +92,14 @@ input[value="="]:hover {
   background-color: #218838;
 }
 
+input[value="Del"] {
+  background-color: rgb(231, 36, 36);
+}
+
+input[value="Del"]:hover {
+  background-color: rgb(218, 19, 19);
+}
+
 input[type="button"]:active {
   transform: scale(0.95);
 }
